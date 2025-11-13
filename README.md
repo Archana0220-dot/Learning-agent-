@@ -1,11 +1,5 @@
 # Phase 2: Term Project Mid-Status Report
-
-## Project Repository
-Implemented by: **reinforcement-gridworld-pacman**  
-GitHub: [https://github.com/YourUsername/reinforcement-gridworld-pacman](https://github.com/YourUsername/reinforcement-gridworld-pacman)  
-(If private, collaborators added: shivanjali.khare@gmail.com)
-
----
+--
 
 ## Group Members
 - Archana MannamSai  
