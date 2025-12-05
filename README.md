@@ -2,9 +2,9 @@
 --
 
 ## Group Members
-- Archana MannamSai  
-- Supraja GantaRaymond  
-- Frimpong Amoateng  
+- Archana Mannam
+- Sai Supraja Ganta 
+- Ajayi Oluwatomisin Raymond  
 
 ---
 
